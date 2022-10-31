@@ -1,0 +1,87 @@
+{
+  "objectInfo" : {
+    "id" : "83PQw105pogdPYmwxQzCwO",
+    "name" : "Github_test_V3_modified_test",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0114SZ170000000002PM"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Read data from S3 Enterprise and write to Redshift using parameters for source connection for test and QA",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "bSS7EHP17A2eNqe7Pwizgb",
+    "name" : "GTA_Redshift_connection",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0114SZ0B00000000001K"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "AWS Redshift connection",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "2ZfvcH1kappkhv7gPWIiYF",
+    "name" : "GTAS_Oracle",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0114SZ0B000000000050"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  }, {
+    "id" : "5FdByK1tgnHc5oqh8HbbaO",
+    "name" : "S3_GTAS",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0114SZ0B00000000002Z"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Amazon S3",
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
