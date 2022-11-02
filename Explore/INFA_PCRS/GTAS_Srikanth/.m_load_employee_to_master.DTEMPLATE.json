@@ -1,0 +1,67 @@
+{
+  "objectInfo" : {
+    "id" : "6WRCm963B6Nbk7SCDX9yaT",
+    "name" : "m_load_employee_to_master",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0114SZ170000000000BQ"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ {
+    "id" : "8mcNo65f9bii6dzfwTKqoD",
+    "name" : "mplt_bonus_calc",
+    "type" : "DMAPPLET",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0114SZ40000000000013"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "Mapplet pushed from PC to ICS : mplt_bonus_calc",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/INFA_PCRS/GTAS_Srikanth"
+  }, {
+    "id" : "2DR1cvr21iEbPrghRmO7OS",
+    "name" : "GTAS_DEMO",
+    "type" : "Connection",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0114SZ0B00000000001O"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "COMPLETE"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
