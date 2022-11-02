@@ -1,0 +1,27 @@
+{
+  "objectInfo" : {
+    "id" : "169tVc2O13hgzoBHusFTQl",
+    "name" : "m_UC_1_AWS_Person_Enterprise",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "0114SZ170000000000YZ"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "Read data from S3 Enterprise and write to Redshift using parameters for source connection for test and QA",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "objectRefs" : [ ]
+}
