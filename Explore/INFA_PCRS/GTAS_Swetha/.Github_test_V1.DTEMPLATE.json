@@ -1,6 +1,6 @@
 {
   "objectInfo" : {
-    "id" : "92ylmHnFnA5i2SRGBMADu0",
+    "id" : "enoBrgtmr6ll3OHVrv09mE",
     "name" : "Github_test_V1",
     "type" : "DTEMPLATE",
     "metadata" : {
@@ -9,7 +9,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "0114SZ170000000002PL"
+        "repoHandle" : "0114SZ170000000002Q4"
       },
       "contextAttributes" : [ {
         "name" : "id",
@@ -17,7 +17,7 @@
       } ],
       "additionalInfo" : {
         "description" : "Read data from S3 Enterprise and write to Redshift using parameters for source connection for test and QA. This is for test purpose.",
-        "contentType" : "JSON",
+        "contentType" : null,
         "documentState" : "VALID"
       }
     }
