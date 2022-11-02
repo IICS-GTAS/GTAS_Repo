@@ -16,7 +16,7 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "Read data from S3 Enterprise and write to Redshift using parameters for source connection for test and QA",
+        "description" : "Read data from S3 Enterprise and write to Redshift using parameters for source connection for test and QA. This is version2 for test",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
